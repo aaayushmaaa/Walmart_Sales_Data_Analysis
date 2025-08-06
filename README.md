@@ -8,12 +8,12 @@ The project is ideal for data analysts aiming to strengthen their skills in data
 
 ## Project Steps
 
-###1. Environment Setup
+### 1. Environment Setup
 Tools Used: VS Code, Python, MySQL
 
 Organized project folders for smooth development and data handling.
 
-###2. Kaggle API Integration
+### 2. Kaggle API Integration
 Obtained Kaggle API token and configured it to download datasets directly.
 
 Used kaggle datasets download -d <dataset-path> to pull the Walmart Sales dataset.
@@ -114,13 +114,13 @@ MySQL
 
 Required libraries:
 
-bash
-Copy
-Edit
-pandas
-numpy
-sqlalchemy
-mysql-connector-python
+- bash
+- Copy
+- Edit
+- pandas
+- numpy
+- sqlalchemy
+- mysql-connector-python
 
 
 ## Acknowledgments
